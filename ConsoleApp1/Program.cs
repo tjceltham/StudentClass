@@ -20,6 +20,7 @@ namespace ConsoleApp1
             {
                 s2.lateNight();
 
+
             }
             
             s1.print();
